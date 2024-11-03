@@ -8,6 +8,8 @@
 
 > Help me with your referral [Teneo](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm) | Code: `gJMws`
 
+- Rememeber to turn off Teneo Extension when running tool.
+
 ## 🚀 Getting Started
 
 To get started with the bot, follow these steps:
