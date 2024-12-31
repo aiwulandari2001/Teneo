@@ -36,7 +36,8 @@ create_default_configs() {
   "isSkipInvalidProxy": false,
   "rotateProxy": false,
   "skipInvalidProxy": false,
-  "proxyRotationInterval": 2
+  "proxyRotationInterval": 2,
+  "referralCode": "gJMws"
 }
 EOL
 }
@@ -52,7 +53,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    name BOT SETUP AND RUN SCRIPT"
+    echo "    Teneo BOT SETUP AND RUN SCRIPT by @MeoMunDep"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"
@@ -112,7 +113,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            node bot
+            cd teneo && node bot
             read -p "Press Enter to continue..."
             ;;
         4)
