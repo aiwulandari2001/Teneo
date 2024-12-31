@@ -58,7 +58,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```
 
-### 2. `emails.txt` 🗂️
+### 2. `emails.txt` 🗂️ - Your emails address.
 
 ```txt
 email...
@@ -66,7 +66,7 @@ email...
 email...
 ```
 
-### 3. `passwords.txt` 💼
+### 3. `passwords.txt` 💼 - Your passwords's emails.
 
 ```txt - wallet address
 pass...
@@ -86,6 +86,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node bot`
+> To run the bot, use the following command: `cd teneo-main/teneo; node bot`
 
 🎇Enjoy!
